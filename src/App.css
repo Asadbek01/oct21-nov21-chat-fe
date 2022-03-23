@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+.header{
+  background-image: url('https://i.pinimg.com/originals/40/39/e0/4039e0f1ef08b7b965bacb4641a7af49.jpg');
+  }
+  .sidebar{
+    background-color: rgb(51, 52, 53);
+  }
 
 .App-logo {
   height: 40vmin;
@@ -12,6 +18,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
 
 .App-header {
   background-color: #282c34;
